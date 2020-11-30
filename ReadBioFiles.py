@@ -1,3 +1,5 @@
+# Week 4 Task
+
 def readFastq(file_name):
     sequences = []
     qualities = []
